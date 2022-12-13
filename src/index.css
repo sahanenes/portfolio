@@ -36,8 +36,10 @@ body {
   background: var(--color-bg);
   color: var(--color-white);
   line-height: 1.7;
-  background-image: url(./assets/background.jpeg);
-  background-size: cover;
+  background-image: url(./assets/coding.webp);
+  /* background-size: cover; */
+
+  /* background-size: 20px; */
 }
 
 .container {
@@ -56,6 +58,7 @@ h1 {
 }
 section {
   margin-top: 8rem;
+  height: 100vh;
 }
 section > h2,
 section > h5 {
