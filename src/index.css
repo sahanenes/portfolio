@@ -36,7 +36,7 @@ body {
   background: var(--color-bg);
   color: var(--color-white);
   line-height: 1.7;
-  background-image: url(./assets/coding.webp);
+  /* background-image: url(./assets/coding.webp); */
   /* background-size: cover; */
 
   /* background-size: 20px; */
@@ -113,6 +113,7 @@ img {
   }
   section {
     margin-top: 6rem;
+    margin-bottom: 25rem;
   }
 }
 @media screen and (max-width: 600px) {
@@ -120,6 +121,9 @@ img {
     width: var(--container-width-sm);
   }
   section > h2 {
-    margin-top: 2rem;
+    margin-bottom: 2rem;
+  }
+  section {
+    margin-bottom: 30rem;
   }
 }
