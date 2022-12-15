@@ -74,6 +74,9 @@
   .about__content p {
     margin: 1rem 0 1.5rem;
   }
+  section {
+    margin-bottom: 30rem;
+  }
 }
 /* ============== SM DEVICES================ */
 

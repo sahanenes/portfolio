@@ -112,8 +112,8 @@ img {
     width: var(--container-width-md);
   }
   section {
-    margin-top: 6rem;
-    margin-bottom: 25rem;
+    /* margin-top: 6rem; */
+    /* margin-bottom: 25rem; */
   }
 }
 @media screen and (max-width: 600px) {
@@ -124,6 +124,6 @@ img {
     margin-bottom: 2rem;
   }
   section {
-    margin-bottom: 30rem;
+    /* margin-bottom: 30rem; */
   }
 }
