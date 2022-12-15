@@ -7,7 +7,7 @@ const Footer = () => {
   return (
     <footer>
       <a href="#" className="footer__logo">
-        SAHANENES
+        Enes Sahan
       </a>
       <ul className="permalinks">
         <li>
@@ -30,10 +30,10 @@ const Footer = () => {
         </li>
       </ul>
       <div className="footer__socials">
-        <a href="https://instagram.com">
+        <a href="https://www.instagram.com/sahaneness/" target="_blank">
           <FiInstagram />
         </a>
-        <a href="https://twitter.com">
+        <a href="https://twitter.com/sahanenes1" target="_blank">
           <BsTwitter />
         </a>
       </div>
