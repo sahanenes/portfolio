@@ -36,10 +36,13 @@ const About = () => {
             </article>
           </div>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus,
-            quaerat harum, ducimus quos assumenda a perferendis sequi pariatur
-            fuga fugit modi voluptatem similique molestias maxime sint! Omnis
-            doloribus natus dolore!
+            Having 3+ years experience in IT and 1+ years of experience in
+            frontend development ,an expert in developing front-end website
+            architecture and designing user interactions on web pages. Dynamic
+            Front End Software Developer with front end programming languages
+            skills, developing complex solutions, processing strong creative
+            thinking skills, highly energetic and integrated with strong
+            troubleshooting abilities.
           </p>
           <a href="#contact" className="btn btn-primary">
             Let's Talk
